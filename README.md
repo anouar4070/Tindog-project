@@ -1,5 +1,5 @@
 <div align="center" dir="auto">
-  <a href="https://github.com/anouar4070/Tindog-project/tree/master" style="font-size:400px;">
+  <a href="https://github.com/anouar4070/Tindog-project/tree/master" style="height:400px;">
    🕮
   </a>
   <div class="markdown-heading" dir="auto"><h3 align="center" tabindex="-1" class="heading-element" dir="auto">Startup Website</h3></div>
