@@ -1,5 +1,5 @@
 <div align="center" dir="auto">
-  <a href="https://anouar4070.github.io/Tindog-project/" target="_blank">
+  <a href="https://anouar4070.github.io/Tindog-project/">
  🚀
   </a>
   <div class="markdown-heading" dir="auto"><h3 align="center" tabindex="-1" class="heading-element" dir="auto">Startup Website</h3></div>
